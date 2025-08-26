@@ -34,18 +34,18 @@ This repository contains the source code for my Data Structures project submissi
 
 1. **Download or clone the repository:**
     ```
-    git clone https://github.com/your-username/expression-calculator.git
-    cd expression-calculator
+    git clone https://github.com/Yash-1505/ECalc.git
+    cd ECalc
     ```
 
 2. **Compile the C++ program:**
     ```
-    g++ calculator.cpp -o calculator
+    g++ main.cpp -o main
     ```
 
 3. **Run the executable:**
     ```
-    ./calculator
+    ./main
     ```
 
 > _This project is submitted as part of my Design of Data Structures in C++._

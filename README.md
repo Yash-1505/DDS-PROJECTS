@@ -37,8 +37,8 @@ To run any project, use the following general steps:
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/your-username/ds-mini-projects.git
-    cd ds-mini-projects
+    git clone https://github.com/Yash-1505/DDS-PROJECTS.git
+    cd DDS-PROJECTS
     ```
 
 2. **Navigate into the desired project folder (if separated), or use the correct `.cpp` file.**

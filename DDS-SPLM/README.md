@@ -33,18 +33,18 @@ This repository contains the source code for my Data Structures project submissi
 
 1. **Download or clone the repository:**
     ```
-    git clone https://github.com/your-username/smart-parking-lot.git
-    cd smart-parking-lot
+    git clone https://github.com/Yash-1505/SPLM.git
+    cd SPLM
     ```
 
 2. **Compile the C++ program:**
     ```
-    g++ parking.cpp -o parking
+    g++ main.cpp -o main
     ```
 
 3. **Run the executable:**
     ```
-    ./parking
+    ./main
     ```
 
 > _This project is submitted as part of my Design of Data Structures in C++._

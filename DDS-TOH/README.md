@@ -33,18 +33,18 @@ This repository contains the source code for my Data Structures project submissi
 
 1. **Download or clone the repository:**
     ```
-    git clone https://github.com/your-username/tower-of-hanoi-visualizer.git
-    cd tower-of-hanoi-visualizer
+    git clone https://github.com/DDS-PROJECTS/DDS-TOH.git
+    cd DDS-TOH
     ```
 
 2. **Compile the C++ program:**
     ```
-    g++ hanoi.cpp -o hanoi
+    g++ main.cpp -o main
     ```
 
 3. **Run the executable:**
     ```
-    ./hanoi
+    ./main
     ```
 
 > _This project is submitted as part of my Design of Data Structures in C++._

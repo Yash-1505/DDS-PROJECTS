@@ -1,28 +1,53 @@
-# Tower of Hanoi Visualizer
+# Tower of Hanoi Visualizer (C++)
 
 ## 📌 Overview
 
-A command-line visualizer that recursively solves the Tower of Hanoi problem.  
-Developed as a Data Structures project using recursion.  
-Displays the movement of disks across rods using an ASCII-based visual output after each step.
+A minimal, command-line visualizer for the classic Tower of Hanoi puzzle, written in C++.  
+It recursively solves the problem and visually displays each move using ASCII art for intuitive understanding.
 
 ---
 
 ## 🛠 Features
 
-- Solve Tower of Hanoi using recursion  
-- Visualize each move with ASCII rods and disks  
-- Show step-by-step or automatic execution  
-- Count total moves and compare with optimal moves  
+- Solves Tower of Hanoi with recursion  
+- Visualizes rods (`|`) and disks as centered `*` bars  
+- Shows each move step-by-step in the terminal  
+- User selects the number of disks (up to 20 by default)  
+- Only uses standard C++ with `iostream`—no STL required  
 
 ---
 
 ## 📂 Data Structures Used
 
-- **Recursion:** For solving the puzzle  
-- **Array/Stack-like operations:** To represent rods and disk movements  
+- **Static 2D array:** Represents rods and the disks present on them  
+- **Recursion:** For move logic  
+- **Simple counters:** To manage and track disk stacks on rods  
 
 ---
 
-## 🚀 How to Run
+## 🚀 Running Locally
+
+This repository contains the source code for my Data Structures project submission: a command-line Tower of Hanoi visualizer in C++.
+
+**To run locally:**
+
+1. **Download or clone the repository:**
+    ```
+    git clone https://github.com/your-username/tower-of-hanoi-visualizer.git
+    cd tower-of-hanoi-visualizer
+    ```
+
+2. **Compile the C++ program:**
+    ```
+    g++ hanoi.cpp -o hanoi
+    ```
+
+3. **Run the executable:**
+    ```
+    ./hanoi
+    ```
+
+> _This project is submitted as part of my Design of Data Structures in C++._
+
+---
 

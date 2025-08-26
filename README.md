@@ -11,11 +11,11 @@ Code is intentionally kept as simple and portable as possible for educational cl
 
 ## 🗂️ Projects Included
 
-### 1. Tower of Hanoi Visualizer
-- Recursively solves the classic Tower of Hanoi puzzle.
-- Visualizes rods and disks using ASCII art after every move.
-- User selects disk count (up to 20).
-- Simple arrays and recursion (no STL containers).
+### 1. Expression Calculator
+- Converts infix mathematical expressions to postfix (Reverse Polish Notation) using stack logic.
+- Evaluates postfix expressions, handling all operator precedence and parentheses.
+- Entirely array-based stack implementation (no STL).
+- Supports standard arithmetic operators and parenthetical grouping.
 
 ### 2. Smart Parking Lot Management
 - Menu-based minimal parking lot manager.
@@ -23,11 +23,11 @@ Code is intentionally kept as simple and portable as possible for educational cl
 - Uses array and struct for managing the parking slots.
 - Designed for easy demonstration of simple data structure logic.
 
-### 3. Expression Calculator
-- Converts infix mathematical expressions to postfix (Reverse Polish Notation) using stack logic.
-- Evaluates postfix expressions, handling all operator precedence and parentheses.
-- Entirely array-based stack implementation (no STL).
-- Supports standard arithmetic operators and parenthetical grouping.
+### 3. Tower of Hanoi Visualizer
+- Recursively solves the classic Tower of Hanoi puzzle.
+- Visualizes rods and disks using ASCII art after every move.
+- User selects disk count (up to 20).
+- Simple arrays and recursion (no STL containers).
 
 ---
 
